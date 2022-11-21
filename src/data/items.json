@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "CYcle",
+      "price": 1000,
+      "imgUrl": "/imgs/cycle.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Furniture",
+      "price": 15000,
+      "imgUrl": "/imgs/furniture.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Mobile",
+      "price": 10000,
+      "imgUrl": "/imgs/mobile.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Pen",
+      "price": 140,
+      "imgUrl": "/imgs/pen.jpg"
+    }
+  ]
